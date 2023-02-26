@@ -1,6 +1,6 @@
-package com.vladdubceac.springbootlibrary.config;
+package com.vladdubceac.spring_boot_library.config;
 
-import com.vladdubceac.springbootlibrary.entity.Book;
+import com.vladdubceac.spring_boot_library.entity.Book;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
 import org.springframework.data.rest.webmvc.config.RepositoryRestConfigurer;

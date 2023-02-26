@@ -1,4 +1,4 @@
-package com.vladdubceac.springbootlibrary.entity;
+package com.vladdubceac.spring_boot_library.entity;
 
 import lombok.Data;
 import javax.persistence.*;
