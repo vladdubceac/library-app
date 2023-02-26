@@ -75,9 +75,7 @@ export const Carousel = () => {
                 height="233"
                 alt="book"
               />
-              <h6 className="mt-2">
-                <b>Book</b>
-              </h6>
+              <h6 className="mt-2">Book</h6>
               <p>Luv2Code</p>
               <a className="btn main-color text-white" href="#">
                 Reserve
