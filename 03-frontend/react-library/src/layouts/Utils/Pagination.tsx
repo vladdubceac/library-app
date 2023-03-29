@@ -44,6 +44,7 @@ export const Pagination: React.FC<{
               "page-item " +
               (props.currentPage === numberOfPage ? "active" : "")
             }
+            key={"page-" + numberOfPage}
           >
             <button className="page-link">{numberOfPage}</button>
           </li>
