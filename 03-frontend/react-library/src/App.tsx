@@ -1,4 +1,5 @@
-import { Redirect, Route, Switch } from "react-router";
+// import { Route } from "react-router-dom";
+import { Redirect, Route, Switch } from "react-router-dom";
 import "./App.css";
 import { BookCheckoutPage } from "./layouts/BookCheckoutPage/BookCheckoutPage";
 import { HomePage } from "./layouts/HomePage/HomePage";
